@@ -1,0 +1,13 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.navList ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  height: 7rem;
+  align-items: center;
+
+}
